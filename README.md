@@ -10,4 +10,14 @@ This example is to show different parts of the Git repository and various comman
 
 Sample website with plenty of files for demos
 
-## Deployements
+## Deployments
+
+This project is to be deployed for demonstration
+
+## How to contribute
+
+One can keep working on devOps to show your work. You can also see other's work and then edit your contributes.
+
+### Copyright
+	
+	2021 Git Training.
